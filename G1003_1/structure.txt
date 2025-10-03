@@ -1,0 +1,36 @@
+Folder PATH listing
+Volume serial number is 80B9-5FAB
+C:.
+|   favicon.ico
+|   index.html
+|   structure.txt
+|   
++---src
+|   |   main.js
+|   |   
+|   +---components
+|   |       App.js
+|   |       PlayerCreation.js
+|   |       PlayerEdit.js
+|   |       PlayerList.js
+|   |       PlayerManagement.js
+|   |       TeamCaptainEdit.js
+|   |       TeamCreation.js
+|   |       TeamEdit.js
+|   |       TeamManagement.js
+|   |       TournamentCheckIn.js
+|   |       
+|   \---utils
+|           dropdownUtils.js
+|           modalUtils.js
+|           PlayerStorage.js
+|           storage.js
+|           TableDistribution.js
+|           TeamStorage.js
+|           TournamentStorage.js
+|           uiUtils.js
+|           uuidUtils.js
+|           
+\---styles
+        main.css
+        
